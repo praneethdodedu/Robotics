@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/marker-topless/2019-04-10-150633.jpg'>
+    <box top='347' left='760' width='57' height='347'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150642.jpg'>
+    <box top='290' left='321' width='54' height='364'/>
+    <box top='291' left='648' width='47' height='360'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150650.jpg'>
+    <box top='54' left='424' width='89' height='564'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150700.jpg'>
+    <box top='325' left='717' width='39' height='244'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150705.jpg'>
+    <box top='200' left='674' width='51' height='372'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150710.jpg'>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150716.jpg'>
+    <box top='137' left='553' width='63' height='405'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150723.jpg'>
+    <box top='135' left='495' width='73' height='484'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150729.jpg'>
+    <box top='222' left='619' width='73' height='405'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150737.jpg'>
+    <box top='121' left='546' width='78' height='529'/>
+  </image>
+  <image file='Images/marker-topless/2019-04-10-150744.jpg'>
+    <box top='291' left='617' width='65' height='389'/>
+  </image>
+</images>
+</dataset>

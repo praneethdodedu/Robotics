@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='2019-02-07-160341.jpg'>
+    <box top='350' left='442' width='38' height='47'/>
+    <box top='332' left='633' width='43' height='51'/>
+  </image>
+</images>
+</dataset>

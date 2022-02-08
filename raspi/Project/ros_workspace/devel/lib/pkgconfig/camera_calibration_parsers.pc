@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.13
+Cflags: -I/home/robot2/Project/ros_workspace/src/image_transport_ws/image_common/camera_calibration_parsers/include
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

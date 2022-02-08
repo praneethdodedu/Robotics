@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: move-forward
+Description: Description of move-forward
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib 
+Requires: 

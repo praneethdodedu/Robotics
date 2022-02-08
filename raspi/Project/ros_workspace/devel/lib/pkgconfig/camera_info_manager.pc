@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: camera_info_manager
+Description: Description of camera_info_manager
+Version: 1.11.13
+Cflags: -I/home/robot2/Project/ros_workspace/src/image_transport_ws/image_common/camera_info_manager/include -I/usr/include
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib -lcamera_info_manager
+Requires: camera_calibration_parsers roscpp sensor_msgs

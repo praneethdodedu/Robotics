@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/door-handle/2019-06-26-121420.jpg'>
+    <box top='132' left='1100' width='81' height='109'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121430.jpg'>
+    <box top='164' left='936' width='71' height='95'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121437.jpg'>
+    <box top='188' left='910' width='73' height='93'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121446.jpg'>
+    <box top='300' left='878' width='83' height='97'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121454.jpg'>
+    <box top='230' left='972' width='75' height='101'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121501.jpg'>
+    <box top='308' left='962' width='77' height='95'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121507.jpg'>
+    <box top='318' left='918' width='69' height='99'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121547.jpg'>
+    <box top='320' left='652' width='69' height='111'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121619.jpg'>
+    <box top='238' left='732' width='81' height='103'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121625.jpg'>
+    <box top='198' left='704' width='81' height='115'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121639.jpg'>
+    <box top='214' left='706' width='81' height='103'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121647.jpg'>
+    <box top='220' left='696' width='83' height='103'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121654.jpg'>
+    <box top='244' left='742' width='77' height='107'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121703.jpg'>
+    <box top='214' left='660' width='79' height='111'/>
+  </image>
+  <image file='Images/door-handle/2019-06-26-121708.jpg'>
+    <box top='196' left='650' width='83' height='109'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/kinely/1200140_2-kinley-mineral-water.jpg'>
+    <box top='219' left='89' width='85' height='67'/>
+  </image>
+  <image file='Images/kinely/download.jpeg'>
+    <box top='159' left='78' width='65' height='37'/>
+  </image>
+  <image file='Images/kinely/India-lead.jpg'>
+    <box top='240' left='308' width='86' height='68'/>
+  </image>
+  <image file='Images/kinely/India-prod.jpg'>
+    <box top='164' left='254' width='58' height='43'/>
+    <box top='169' left='326' width='52' height='35'/>
+    <box top='166' left='392' width='47' height='39'/>
+  </image>
+  <image file='Images/kinely/kinle-water-www.a2zshoppingbazaar.com-500x500.png'>
+    <box top='328' left='188' width='122' height='90'/>
+  </image>
+  <image file='Images/kinely/KINLEY-WATER-BOTTLE-1L.jpg'>
+    <box top='363' left='197' width='99' height='72'/>
+  </image>
+  <image file='Images/kinely/kinley-water-bottle-2-ltr-910x1155.png'>
+    <box top='717' left='350' width='246' height='180'/>
+  </image>
+  <image file='Images/kinely/kinley-water-bottles-500x500.jpg'>
+    <box top='327' left='89' width='124' height='92'/>
+    <box top='327' left='231' width='119' height='96'/>
+    <box top='323' left='372' width='119' height='101'/>
+  </image>
+  <image file='Images/kinely/kinley-water-bottle-v-2-ltr.png'>
+    <box top='210' left='117' width='95' height='64'/>
+  </image>
+  <image file='Images/kinely/product-500x500.jpeg'>
+    <box top='311' left='86' width='112' height='85'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130630.jpg'>
+    <box top='190' left='636' width='314' height='294'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130636.jpg'>
+    <box top='140' left='496' width='343' height='304'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130646.jpg'>
+    <box top='401' left='563' width='142' height='117'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130652.jpg'>
+    <box top='384' left='518' width='147' height='130'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130704.jpg'>
+    <box top='395' left='622' width='144' height='122'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130716.jpg'>
+    <box top='353' left='668' width='113' height='92'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130722.jpg'>
+    <box top='455' left='649' width='116' height='93'/>
+  </image>
+  <image file='Images/kinely/2019-02-19-130729.jpg'>
+    <box top='375' left='557' width='168' height='138'/>
+  </image>
+</images>
+</dataset>

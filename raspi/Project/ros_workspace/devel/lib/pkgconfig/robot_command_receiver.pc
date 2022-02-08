@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: robot_command_receiver
+Description: Description of robot_command_receiver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib 
+Requires: 

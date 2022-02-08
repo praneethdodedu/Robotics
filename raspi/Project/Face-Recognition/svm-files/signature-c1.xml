@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/localize/1-feet/2019-06-24-141709.jpg'>
+    <box top='125' left='451' width='226' height='327'/>
+    <box top='32' left='885' width='184' height='349'/>
+  </image>
+  <image file='Images/localize/1-feet/2019-06-24-141717.jpg'>
+    <box top='184' left='538' width='165' height='247'/>
+    <box top='121' left='881' width='194' height='230'/>
+  </image>
+  <image file='Images/localize/1-feet/2019-06-24-141722.jpg'>
+    <box top='102' left='482' width='218' height='338'/>
+    <box top='29' left='892' width='205' height='291'/>
+  </image>
+  <image file='Images/localize/1-feet/2019-06-24-141730.jpg'>
+    <box top='97' left='480' width='227' height='368'/>
+    <box top='40' left='913' width='176' height='370'/>
+  </image>
+  <image file='Images/localize/1-feet/2019-06-24-141737.jpg'>
+    <box top='126' left='499' width='201' height='283'/>
+    <box top='118' left='911' width='160' height='312'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/dust/2019-04-10-120327.jpg'>
+    <box top='73' left='457' width='558' height='592'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120340.jpg'>
+    <box top='177' left='587' width='476' height='490'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120349.jpg'>
+    <box top='174' left='291' width='486' height='493'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120405.jpg'>
+    <box top='287' left='552' width='361' height='383'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120419.jpg'>
+    <box top='47' left='550' width='354' height='378'/>
+  </image>
+</images>
+</dataset>

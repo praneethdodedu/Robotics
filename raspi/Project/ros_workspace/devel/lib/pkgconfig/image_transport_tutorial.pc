@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: image_transport_tutorial
+Description: Description of image_transport_tutorial
+Version: 0.0.0
+Cflags: -I/home/robot2/Project/ros_workspace/devel/include
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib 
+Requires: cv_bridge image_transport message_runtime sensor_msgs

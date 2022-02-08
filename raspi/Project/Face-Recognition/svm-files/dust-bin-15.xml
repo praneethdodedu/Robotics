@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/dust/2019-04-10-120327.jpg'>
+    <box top='79' left='456' width='584' height='589'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120340.jpg'>
+    <box top='159' left='591' width='473' height='494'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120349.jpg'>
+    <box top='162' left='292' width='487' height='504'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120405.jpg'>
+    <box top='286' left='564' width='348' height='382'/>
+  </image>
+  <image file='Images/dust/2019-04-10-120419.jpg'>
+    <box top='42' left='549' width='349' height='369'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124420.jpg'>
+    <box top='149' left='385' width='481' height='513'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124426.jpg'>
+    <box top='167' left='341' width='494' height='502'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124437.jpg'>
+    <box top='248' left='381' width='302' height='347'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124453.jpg'>
+    <box top='113' left='354' width='495' height='551'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124509.jpg'>
+    <box top='88' left='335' width='445' height='499'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124518.jpg'>
+    <box top='23' left='145' width='531' height='594'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124539.jpg'>
+    <box top='392' left='484' width='218' height='233'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124547.jpg'>
+    <box top='203' left='257' width='310' height='338'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124555.jpg'>
+    <box top='317' left='116' width='291' height='318'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124605.jpg'>
+    <box top='124' left='381' width='290' height='325'/>
+  </image>
+  <image file='Images/dust/2019-04-10-124611.jpg'>
+    <box top='66' left='145' width='331' height='355'/>
+  </image>
+</images>
+</dataset>

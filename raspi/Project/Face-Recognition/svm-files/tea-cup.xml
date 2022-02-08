@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/Tea-Cup/2019-02-15-143011.jpg'>
+    <box top='343' left='599' width='213' height='165'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143032.jpg'>
+    <box top='431' left='170' width='220' height='229'/>
+    <box top='418' left='629' width='237' height='245'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143043.jpg'>
+    <box top='409' left='325' width='270' height='280'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143048.jpg'>
+    <box top='404' left='637' width='235' height='258'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143102.jpg'>
+    <box top='419' left='139' width='339' height='273'/>
+    <box top='412' left='713' width='327' height='270'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143108.jpg'>
+    <box top='414' left='146' width='331' height='273'/>
+    <box top='403' left='713' width='330' height='276'/>
+  </image>
+  <image file='Images/Tea-Cup/2019-02-15-143121.jpg'>
+    <box top='228' left='256' width='313' height='247'/>
+    <box top='243' left='698' width='208' height='226'/>
+  </image>
+</images>
+</dataset>

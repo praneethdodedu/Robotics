@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153102.jpg'>
+    <box top='57' left='689' width='187' height='576'/>
+    <box top='214' left='209' width='115' height='358'/>
+    <box top='212' left='334' width='72' height='357'/>
+    <box top='228' left='419' width='68' height='327'/>
+    <box top='244' left='496' width='88' height='304'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153125.jpg'>
+    <box top='55' left='685' width='185' height='565'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153138.jpg'>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153150.jpg'>
+    <box top='206' left='361' width='134' height='408'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153204.jpg'>
+    <box top='188' left='457' width='155' height='471'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153214.jpg'>
+    <box top='127' left='509' width='154' height='482'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153222.jpg'>
+    <box top='144' left='526' width='148' height='459'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153237.jpg'>
+    <box top='133' left='540' width='154' height='472'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153245.jpg'>
+    <box top='132' left='529' width='155' height='467'/>
+  </image>
+  <image file='Images/bisleri-bottle-logo/2019-02-07-153252.jpg'>
+    <box top='136' left='518' width='165' height='468'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/chair/2019-04-10-140822.jpg'>
+    <box top='4' left='422' width='657' height='691'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140840.jpg'>
+    <box top='44' left='212' width='535' height='647'/>
+    <box top='82' left='988' width='277' height='333'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140852.jpg'>
+    <box top='36' left='126' width='587' height='665'/>
+    <box top='106' left='924' width='293' height='339'/>
+    <box top='222' left='138' width='173' height='169'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140905.jpg'>
+    <box top='84' left='300' width='505' height='599'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140915.jpg'>
+    <box top='50' left='230' width='663' height='661'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140927.jpg'>
+    <box top='208' left='272' width='465' height='495'/>
+    <box top='266' left='984' width='277' height='327'/>
+  </image>
+</images>
+</dataset>

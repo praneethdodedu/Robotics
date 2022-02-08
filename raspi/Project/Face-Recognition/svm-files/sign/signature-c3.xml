@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/localize/3-feet/2019-06-24-142003.jpg'>
+    <box top='12' left='16' width='1241' height='691'/>
+  </image>
+  <image file='Images/localize/3-feet/2019-06-24-142011.jpg'>
+    <box top='14' left='18' width='1237' height='677'/>
+  </image>
+  <image file='Images/localize/3-feet/2019-06-24-142016.jpg'>
+    <box top='16' left='12' width='1249' height='675'/>
+  </image>
+  <image file='Images/localize/3-feet/2019-06-24-142021.jpg'>
+    <box top='12' left='14' width='1245' height='697'/>
+  </image>
+  <image file='Images/localize/3-feet/2019-06-24-142026.jpg'>
+    <box top='10' left='14' width='1253' height='691'/>
+  </image>
+</images>
+</dataset>

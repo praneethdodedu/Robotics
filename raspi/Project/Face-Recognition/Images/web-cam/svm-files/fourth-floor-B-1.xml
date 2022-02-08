@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131010.jpg'>
+    <box top='401' left='733' width='332' height='301'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131023.jpg'>
+    <box top='234' left='590' width='325' height='285'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131033.jpg'>
+    <box top='256' left='462' width='351' height='310'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131044.jpg'>
+    <box top='206' left='517' width='340' height='301'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131049.jpg'>
+    <box top='199' left='348' width='327' height='317'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131109.jpg'>
+    <box top='290' left='277' width='366' height='312'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131116.jpg'>
+    <box top='290' left='416' width='355' height='325'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131123.jpg'>
+    <box top='356' left='445' width='368' height='308'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131132.jpg'>
+    <box top='213' left='311' width='365' height='322'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-B/2018-12-17-131139.jpg'>
+    <box top='143' left='410' width='369' height='324'/>
+  </image>
+</images>
+</dataset>

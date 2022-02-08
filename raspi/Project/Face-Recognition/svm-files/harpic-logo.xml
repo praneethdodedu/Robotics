@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/Harpic Images/Training Images/1200379-4_3-harpic-toilet-cleaner-power-plus-rose.jpg'>
+    <box top='281' left='117' width='73' height='66'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/1203744_1-bb-combo-harpic-toilet-cleaner-rose-1-l-vanish-stain-removal-powder-additive-400-g.jpg'>
+    <box top='187' left='55' width='88' height='68'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/61DcrT78DOL._SL1000_.jpg'>
+    <box top='477' left='365' width='225' height='167'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/620eb5952f2a872cc8d53837d57c512d.jpg'>
+    <box top='334' left='32' width='129' height='80'/>
+    <box top='298' left='249' width='115' height='72'/>
+    <box top='337' left='478' width='132' height='87'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/64822853.cms.jpg'>
+    <box top='245' left='445' width='72' height='46'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/Harpic-Original-1-l-Harpic-SDL445741133-2-6f558.jpg'>
+    <box top='491' left='152' width='194' height='181'/>
+    <box top='597' left='450' width='137' height='109'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/Harpic.jpg'>
+    <box top='204' left='94' width='88' height='68'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/Harpic.jpg_220x220.jpg'>
+    <box top='56' left='85' width='46' height='37'/>
+    <box top='61' left='160' width='47' height='36'/>
+    <box top='39' left='10' width='52' height='45'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/carousel-harpic-india.png'>
+    <box top='131' left='35' width='60' height='49'/>
+    <box top='132' left='155' width='68' height='58'/>
+    <box top='136' left='281' width='66' height='58'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/harpic-blue-750ml-toilet-cleaner.jpg'>
+    <box top='374' left='344' width='139' height='105'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/harpic-power-plus-original-v-1-ltr.png'>
+    <box top='135' left='108' width='98' height='74'/>
+  </image>
+  <image file='Images/Harpic Images/Training Images/harpic_multiple.jpg'>
+    <box top='86' left='19' width='56' height='43'/>
+    <box top='84' left='99' width='48' height='44'/>
+    <box top='81' left='176' width='54' height='48'/>
+  </image>
+</images>
+</dataset>

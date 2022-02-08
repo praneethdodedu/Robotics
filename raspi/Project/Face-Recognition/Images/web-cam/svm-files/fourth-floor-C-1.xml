@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131151.jpg'>
+    <box top='196' left='703' width='171' height='298'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131157.jpg'>
+    <box top='235' left='861' width='176' height='316'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131206.jpg'>
+    <box top='202' left='771' width='163' height='319'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131212.jpg'>
+    <box top='208' left='515' width='195' height='324'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131220.jpg'>
+    <box top='217' left='623' width='181' height='301'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131227.jpg'>
+    <box top='180' left='615' width='160' height='312'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131235.jpg'>
+    <box top='173' left='679' width='176' height='296'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131243.jpg'>
+    <box top='244' left='690' width='147' height='312'/>
+  </image>
+  <image file='/home/praneeth/Project/Face-Recognition/New/Images/web-cam/fourth-floor-C/2018-12-17-131250.jpg'>
+    <box top='238' left='851' width='175' height='285'/>
+  </image>
+</images>
+</dataset>

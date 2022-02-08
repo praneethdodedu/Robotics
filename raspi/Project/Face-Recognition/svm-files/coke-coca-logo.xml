@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/coke-bottle/038121.jpg'>
+    <box top='109' left='95' width='47' height='38'/>
+  </image>
+  <image file='Images/coke-bottle/41V1ZPxcx5L.jpg'>
+    <box top='191' left='168' width='89' height='76'/>
+  </image>
+  <image file='Images/coke-bottle/71tqTVl1dgL._SY355_.jpg'>
+    <box top='162' left='145' width='40' height='38'/>
+  </image>
+  <image file='Images/coke-bottle/81y9CSowKbL._SL1500_.jpg'>
+    <box top='639' left='601' width='147' height='152'/>
+  </image>
+  <image file='Images/coke-bottle/Analyst-warns-of-CCE-s-challenged-start-with-smaller-1.75-L-Coke-bottle_wrbm_large.png'>
+    <box top='143' left='78' width='50' height='38'/>
+    <box top='133' left='219' width='39' height='53'/>
+  </image>
+  <image file='Images/coke-bottle/chronology10.jpg'>
+    <box top='449' left='522' width='99' height='94'/>
+  </image>
+  <image file='Images/coke-bottle/Coca-Cola-Zero-Sugar-Glass-.jpg'>
+    <box top='335' left='334' width='69' height='70'/>
+  </image>
+  <image file='Images/coke-bottle/Coke_2L_final__18488.1525935011.jpg'>
+    <box top='534' left='280' width='170' height='160'/>
+  </image>
+  <image file='Images/coke-bottle/coke_zero_2L_final__29204.1525937732.jpg'>
+    <box top='530' left='285' width='159' height='171'/>
+  </image>
+  <image file='Images/coke-bottle/download (1).jpeg'>
+    <box top='91' left='82' width='40' height='35'/>
+  </image>
+  <image file='Images/coke-bottle/download.jpeg'>
+    <box top='80' left='76' width='42' height='44'/>
+  </image>
+  <image file='Images/coke-bottle/fusion360cola-3500-3500.jpg'>
+    <box top='1409' left='1404' width='397' height='318'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_852cd36c-203c-4f0d-9494-67b2526a2fa7.jpeg'>
+    <box top='192' left='171' width='80' height='72'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_9de8872b-bd33-4793-b6eb-f58de3d3e90a.jpeg'>
+    <box top='204' left='188' width='65' height='54'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_f3dfc07b-ecf3-4db4-bb56-a1be8b754215.jpeg'>
+    <box top='192' left='170' width='79' height='72'/>
+  </image>
+  <image file='Images/coke-bottle/share-1-my-friends-my-friends-0.1.0-2.png'>
+  </image>
+</images>
+</dataset>

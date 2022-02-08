@@ -1,0 +1,8 @@
+prefix=/home/robot2/Project/ros_workspace/devel
+
+Name: robot_commander
+Description: Description of robot_commander
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robot2/Project/ros_workspace/devel/lib 
+Requires: 

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/thums-up/0000832_thums-up-soft-drink-750-ml-bottle_550.jpeg'>
+    <box top='265' left='184' width='74' height='74'/>
+    <box top='270' left='282' width='72' height='73'/>
+  </image>
+  <image file='Images/thums-up/10740_1.jpg'>
+    <box top='369' left='272' width='63' height='69'/>
+  </image>
+  <image file='Images/thums-up/110994528.jpg'>
+    <box top='167' left='171' width='71' height='67'/>
+  </image>
+  <image file='Images/thums-up/512R8AsfXRL._SX466_.jpg'>
+    <box top='183' left='140' width='89' height='86'/>
+  </image>
+  <image file='Images/thums-up/5575c9b331266_90e855a51803897b523173a768fa9da029f31742.jpg'>
+    <box top='430' left='419' width='148' height='146'/>
+  </image>
+  <image file='Images/thums-up/9-500x500.png'>
+    <box top='204' left='212' width='93' height='94'/>
+  </image>
+  <image file='Images/thums-up/download (1).jpeg'>
+    <box top='91' left='94' width='50' height='49'/>
+  </image>
+  <image file='Images/thums-up/download (2).jpeg'>
+    <box top='97' left='84' width='53' height='44'/>
+  </image>
+  <image file='Images/thums-up/download (3).jpeg'>
+    <box top='104' left='64' width='51' height='59'/>
+    <box top='102' left='116' width='44' height='58'/>
+  </image>
+  <image file='Images/thums-up/download.jpeg'>
+    <box top='91' left='85' width='50' height='41'/>
+  </image>
+  <image file='Images/thums-up/fb_hk4011578.jpg'>
+    <box top='221' left='218' width='64' height='70'/>
+  </image>
+  <image file='Images/thums-up/images (1).jpeg'>
+    <box top='121' left='70' width='49' height='56'/>
+  </image>
+  <image file='Images/thums-up/images.jpeg'>
+    <box top='62' left='85' width='46' height='43'/>
+  </image>
+  <image file='Images/thums-up/t-2.25.jpg'>
+    <box top='210' left='254' width='115' height='112'/>
+  </image>
+  <image file='Images/thums-up/thums-up-500x500.jpg'>
+    <box top='137' left='191' width='154' height='190'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-200-ml-500x500.jpg'>
+    <box top='138' left='200' width='99' height='105'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-300-ml-500x500.jpg'>
+    <box top='149' left='190' width='63' height='72'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-v-125-ltr.png'>
+    <box top='174' left='122' width='50' height='46'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-v-175-ltr.png'>
+    <box top='131' left='131' width='69' height='63'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-v-2-ltr.png'>
+    <box top='147' left='121' width='74' height='92'/>
+  </image>
+  <image file='Images/thums-up/thums-up-bottle-v-750-ml-1.png'>
+    <box top='128' left='132' width='67' height='81'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='fourth-floor-exit/2018-12-15-152343.jpg'>
+    <box top='296' left='351' width='245' height='392'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152354.jpg'>
+    <box top='246' left='387' width='252' height='309'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152404.jpg'>
+    <box top='277' left='399' width='216' height='301'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152417_1.jpg'>
+    <box top='136' left='102' width='233' height='290'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152417_2.jpg'>
+    <box top='208' left='250' width='239' height='284'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152417_3.jpg'>
+    <box top='199' left='323' width='228' height='299'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152417_4.jpg'>
+    <box top='116' left='434' width='217' height='288'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152433_1.jpg'>
+    <box top='202' left='220' width='219' height='303'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152433_2.jpg'>
+    <box top='231' left='489' width='222' height='252'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152433_3.jpg'>
+    <box top='174' left='429' width='209' height='262'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152433_4.jpg'>
+    <box top='250' left='250' width='219' height='277'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152451_1.jpg'>
+    <box top='208' left='85' width='232' height='276'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152451_2.jpg'>
+    <box top='391' left='345' width='222' height='276'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152451_3.jpg'>
+    <box top='81' left='239' width='216' height='303'/>
+  </image>
+  <image file='fourth-floor-exit/2018-12-15-152451_4.jpg'>
+    <box top='333' left='443' width='228' height='262'/>
+  </image>
+</images>
+</dataset>

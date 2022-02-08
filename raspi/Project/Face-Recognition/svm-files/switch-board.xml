@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/switch-board/2019-06-26-121420.jpg'>
+    <box top='132' left='762' width='149' height='70'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121430.jpg'>
+    <box top='132' left='659' width='143' height='69'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121437.jpg'>
+    <box top='107' left='645' width='138' height='69'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121446.jpg'>
+    <box top='241' left='613' width='131' height='55'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121454.jpg'>
+    <box top='277' left='680' width='140' height='57'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121501.jpg'>
+    <box top='326' left='645' width='143' height='62'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121507.jpg'>
+    <box top='252' left='619' width='157' height='67'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121547.jpg'>
+    <box top='415' left='0' width='214' height='79'/>
+  </image>
+  <image file='Images/switch-board/2019-06-26-121619.jpg'>
+    <box top='165' left='4' width='197' height='100'/>
+  </image>
+</images>
+</dataset>

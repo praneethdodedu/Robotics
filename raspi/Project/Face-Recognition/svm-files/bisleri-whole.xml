@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/bisleri-whole/2019-02-07-160341.jpg'>
+    <box top='152' left='432' width='144' height='454'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161548.jpg'>
+    <box top='4' left='219' width='199' height='637'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161555.jpg'>
+    <box top='28' left='546' width='187' height='594'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161602.jpg'>
+    <box top='115' left='205' width='155' height='488'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161612.jpg'>
+    <box top='66' left='727' width='183' height='550'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161621.jpg'>
+    <box top='147' left='74' width='146' height='437'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161627.jpg'>
+    <box top='2' left='331' width='195' height='623'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161635.jpg'>
+    <box top='173' left='664' width='133' height='431'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161644.jpg'>
+    <box top='187' left='206' width='126' height='426'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161650.jpg'>
+    <box top='260' left='446' width='108' height='313'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161701.jpg'>
+    <box top='208' left='124' width='125' height='387'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161707.jpg'>
+    <box top='166' left='827' width='154' height='427'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161714.jpg'>
+    <box top='222' left='832' width='128' height='351'/>
+  </image>
+  <image file='Images/bisleri-whole/2019-02-07-161722.jpg'>
+    <box top='14' left='553' width='203' height='652'/>
+  </image>
+  <image file='Images/bisleri-whole/61eeEnvkDjL._SY445_.jpg'>
+    <box top='32' left='29' width='119' height='389'/>
+  </image>
+  <image file='Images/bisleri-whole/product-500x500.jpeg'>
+    <box top='81' left='96' width='86' height='225'/>
+  </image>
+</images>
+</dataset>

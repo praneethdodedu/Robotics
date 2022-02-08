@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='fourth-floor-exit-2/2018-12-17-111143.jpg'>
+    <box top='335' left='683' width='74' height='40'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111150.jpg'>
+    <box top='335' left='731' width='72' height='40'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111157.jpg'>
+    <box top='340' left='731' width='74' height='39'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111206.jpg'>
+    <box top='342' left='817' width='69' height='39'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111231.jpg'>
+    <box top='336' left='673' width='75' height='38'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111306.jpg'>
+    <box top='342' left='959' width='79' height='36'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111319.jpg'>
+    <box top='331' left='710' width='78' height='42'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111325.jpg'>
+    <box top='341' left='730' width='70' height='37'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111331.jpg'>
+    <box top='330' left='821' width='72' height='37'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111338.jpg'>
+    <box top='155' left='1008' width='76' height='35'/>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111346.jpg'>
+  </image>
+  <image file='fourth-floor-exit-2/2018-12-17-111357.jpg'>
+    <box top='209' left='1014' width='80' height='34'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/raspi-cover/10.jpg'>
+    <box top='350' left='578' width='62' height='152'/>
+    <box top='345' left='827' width='51' height='154'/>
+  </image>
+  <image file='Images/raspi-cover/11.jpg'>
+    <box top='391' left='922' width='74' height='225'/>
+  </image>
+  <image file='Images/raspi-cover/12.jpg'>
+    <box top='313' left='431' width='71' height='227'/>
+    <box top='345' left='807' width='76' height='244'/>
+  </image>
+  <image file='Images/raspi-cover/13.jpg'>
+    <box top='369' left='630' width='67' height='194'/>
+    <box top='368' left='971' width='67' height='202'/>
+  </image>
+  <image file='Images/raspi-cover/14.jpg'>
+    <box top='360' left='303' width='71' height='197'/>
+    <box top='347' left='631' width='71' height='203'/>
+  </image>
+  <image file='Images/raspi-cover/1.jpg'>
+    <box top='444' left='408' width='71' height='185'/>
+    <box top='416' left='872' width='63' height='177'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175545.jpg'>
+    <box top='270' left='304' width='70' height='197'/>
+    <box top='264' left='422' width='57' height='197'/>
+    <box top='266' left='545' width='69' height='211'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175555.jpg'>
+    <box top='239' left='238' width='48' height='124'/>
+    <box top='283' left='423' width='60' height='177'/>
+    <box top='261' left='545' width='64' height='200'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175608.jpg'>
+    <box top='240' left='239' width='43' height='122'/>
+    <box top='238' left='327' width='47' height='133'/>
+    <box top='242' left='420' width='43' height='125'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175622.jpg'>
+    <box top='250' left='222' width='53' height='139'/>
+    <box top='245' left='345' width='46' height='144'/>
+    <box top='248' left='462' width='45' height='137'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175628.jpg'>
+    <box top='251' left='226' width='46' height='137'/>
+    <box top='246' left='345' width='46' height='139'/>
+    <box top='248' left='458' width='46' height='135'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175639.jpg'>
+    <box top='245' left='221' width='43' height='143'/>
+    <box top='262' left='390' width='54' height='186'/>
+    <box top='268' left='560' width='67' height='181'/>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175648.jpg'>
+  </image>
+  <image file='Images/raspi-cover/2019-02-14-175655.jpg'>
+    <box top='247' left='217' width='48' height='141'/>
+    <box top='252' left='379' width='66' height='191'/>
+    <box top='268' left='562' width='58' height='182'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-154903.jpg'>
+    <box top='409' left='237' width='114' height='302'/>
+    <box top='364' left='860' width='93' height='280'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-154928.jpg'>
+    <box top='403' left='260' width='96' height='264'/>
+    <box top='391' left='1095' width='92' height='297'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-154944.jpg'>
+    <box top='511' left='579' width='77' height='202'/>
+    <box top='498' left='1182' width='91' height='207'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-154951.jpg'>
+    <box top='488' left='186' width='83' height='191'/>
+    <box top='445' left='754' width='78' height='179'/>
+    <box top='411' left='1119' width='64' height='174'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-155003.jpg'>
+    <box top='401' left='341' width='86' height='217'/>
+    <box top='387' left='808' width='74' height='218'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-155010.jpg'>
+    <box top='348' left='228' width='72' height='212'/>
+    <box top='351' left='893' width='73' height='230'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-155017.jpg'>
+    <box top='244' left='231' width='101' height='287'/>
+    <box top='251' left='857' width='80' height='276'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-155026.jpg'>
+    <box top='340' left='489' width='69' height='240'/>
+    <box top='363' left='1205' width='63' height='233'/>
+  </image>
+  <image file='Images/raspi-cover/2019-06-05-155032.jpg'>
+    <box top='280' left='501' width='72' height='247'/>
+    <box top='267' left='1098' width='83' height='266'/>
+  </image>
+  <image file='Images/raspi-cover/2.jpg'>
+    <box top='227' left='432' width='65' height='186'/>
+    <box top='236' left='898' width='70' height='182'/>
+  </image>
+  <image file='Images/raspi-cover/3.jpg'>
+    <box top='470' left='247' width='48' height='138'/>
+    <box top='472' left='619' width='47' height='136'/>
+  </image>
+  <image file='Images/raspi-cover/4.jpg'>
+    <box top='399' left='231' width='71' height='195'/>
+    <box top='375' left='750' width='64' height='189'/>
+  </image>
+  <image file='Images/raspi-cover/5.jpg'>
+    <box top='462' left='556' width='64' height='181'/>
+  </image>
+  <image file='Images/raspi-cover/6.jpg'>
+    <box top='461' left='669' width='58' height='184'/>
+    <box top='433' left='1165' width='63' height='192'/>
+  </image>
+  <image file='Images/raspi-cover/7.jpg'>
+    <box top='405' left='428' width='77' height='188'/>
+    <box top='374' left='933' width='77' height='205'/>
+  </image>
+  <image file='Images/raspi-cover/8.jpg'>
+    <box top='328' left='541' width='65' height='186'/>
+    <box top='317' left='870' width='73' height='202'/>
+  </image>
+  <image file='Images/raspi-cover/9.jpg'>
+    <box top='253' left='461' width='89' height='218'/>
+    <box top='202' left='849' width='84' height='237'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/pepsi-bottle/00012000001130_a1a3_900_900.jpg'>
+    <box top='314' left='269' width='163' height='165'/>
+  </image>
+  <image file='Images/pepsi-bottle/00012000001291_0.jpg'>
+    <box top='224' left='263' width='118' height='126'/>
+  </image>
+  <image file='Images/pepsi-bottle/00012000140921_0.jpg'>
+    <box top='800' left='1215' width='551' height='546'/>
+  </image>
+  <image file='Images/pepsi-bottle/00012000504068_1.jpg'>
+    <box top='293' left='277' width='141' height='144'/>
+  </image>
+  <image file='Images/pepsi-bottle/035808.jpg'>
+    <box top='121' left='104' width='52' height='48'/>
+  </image>
+  <image file='Images/pepsi-bottle/038433.jpg'>
+    <box top='92' left='102' width='64' height='70'/>
+  </image>
+  <image file='Images/pepsi-bottle/41by+Px0K0L.jpg'>
+    <box top='214' left='205' width='93' height='99'/>
+  </image>
+  <image file='Images/pepsi-bottle/511VpUHdSYL._SY355_.jpg'>
+    <box top='71' left='152' width='47' height='53'/>
+  </image>
+  <image file='Images/pepsi-bottle/51-mM1NdwkL._SY445_.jpg'>
+    <box top='114' left='133' width='57' height='61'/>
+  </image>
+  <image file='Images/pepsi-bottle/60057517.jpg'>
+    <box top='145' left='223' width='56' height='57'/>
+  </image>
+  <image file='Images/pepsi-bottle/80140076-london-uk-june-9-2017-bottle-of-pepsi-cola-soft-drink-on-white-background-american-multinational-foo.jpg'>
+    <box top='582' left='335' width='201' height='208'/>
+  </image>
+  <image file='Images/pepsi-bottle/a-bottle-of-pepsi-cola-on-a-white-background-D8TRT3.jpg'>
+    <box top='574' left='344' width='188' height='182'/>
+  </image>
+  <image file='Images/pepsi-bottle/download (1).jpeg'>
+    <box top='68' left='75' width='42' height='46'/>
+  </image>
+  <image file='Images/pepsi-bottle/download (2).jpeg'>
+    <box top='77' left='81' width='64' height='64'/>
+  </image>
+  <image file='Images/pepsi-bottle/download (3).jpeg'>
+    <box top='34' left='94' width='41' height='39'/>
+  </image>
+  <image file='Images/pepsi-bottle/download.jpeg'>
+    <box top='100' left='92' width='48' height='48'/>
+  </image>
+  <image file='Images/pepsi-bottle/d-peps-500_1_2.jpg'>
+    <box top='347' left='334' width='138' height='132'/>
+  </image>
+  <image file='Images/pepsi-bottle/fb_hk4010745.jpg'>
+    <box top='224' left='216' width='68' height='70'/>
+  </image>
+  <image file='Images/pepsi-bottle/fb_hk4011105.jpg'>
+    <box top='219' left='204' width='78' height='81'/>
+  </image>
+  <image file='Images/pepsi-bottle/full.jpg'>
+    <box top='63' left='127' width='43' height='42'/>
+  </image>
+  <image file='Images/pepsi-bottle/GUEST_a87dfe4f-32a7-49a0-8eaa-6c00b277db69.jpeg'>
+    <box top='191' left='191' width='112' height='117'/>
+  </image>
+  <image file='Images/pepsi-bottle/IDShot_540x540.jpg'>
+    <box top='222' left='220' width='103' height='111'/>
+  </image>
+  <image file='Images/pepsi-bottle/kfc-web-bannery-735x443-pepsi-lahev-2014-a-v1-720x573.jpg'>
+    <box top='250' left='312' width='86' height='92'/>
+  </image>
+  <image file='Images/pepsi-bottle/pepsi-bottle-v-2-ltr.png'>
+    <box top='159' left='124' width='57' height='56'/>
+  </image>
+  <image file='Images/pepsi-bottle/pepsi-glass-330ml.jpg'>
+    <box top='173' left='362' width='81' height='82'/>
+  </image>
+</images>
+</dataset>

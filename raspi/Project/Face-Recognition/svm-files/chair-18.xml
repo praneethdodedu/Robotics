@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/chair/2019-04-10-140822.jpg'>
+    <box top='6' left='422' width='625' height='681'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140840.jpg'>
+    <box top='34' left='194' width='563' height='677'/>
+    <box top='190' left='212' width='165' height='195'/>
+    <box top='56' left='982' width='291' height='379'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140852.jpg'>
+    <box top='30' left='146' width='583' height='657'/>
+    <box top='228' left='154' width='145' height='161'/>
+    <box top='100' left='938' width='279' height='351'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140905.jpg'>
+    <box top='92' left='280' width='555' height='607'/>
+    <box top='172' left='1084' width='183' height='337'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140915.jpg'>
+    <box top='68' left='232' width='649' height='643'/>
+  </image>
+  <image file='Images/chair/2019-04-10-140927.jpg'>
+    <box top='202' left='270' width='467' height='493'/>
+    <box top='258' left='990' width='263' height='347'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142323.jpg'>
+    <box top='24' left='394' width='621' height='673'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142334.jpg'>
+    <box top='8' left='316' width='479' height='659'/>
+    <box top='54' left='988' width='267' height='357'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142345.jpg'>
+    <box top='84' left='220' width='519' height='605'/>
+    <box top='156' left='862' width='285' height='333'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142350.jpg'>
+    <box top='108' left='594' width='147' height='219'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142356.jpg'>
+    <box top='98' left='216' width='167' height='219'/>
+    <box top='24' left='466' width='545' height='643'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142408.jpg'>
+    <box top='56' left='420' width='479' height='577'/>
+    <box top='68' left='1030' width='245' height='325'/>
+    <box top='2' left='38' width='191' height='215'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142415.jpg'>
+    <box top='76' left='946' width='303' height='335'/>
+    <box top='56' left='312' width='557' height='611'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142425.jpg'>
+    <box top='130' left='200' width='275' height='333'/>
+    <box top='152' left='688' width='281' height='331'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142432.jpg'>
+    <box top='24' left='220' width='531' height='671'/>
+    <box top='180' left='860' width='285' height='327'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142440.jpg'>
+    <box top='50' left='110' width='539' height='637'/>
+    <box top='178' left='782' width='253' height='311'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142448.jpg'>
+    <box top='-4' left='210' width='541' height='675'/>
+    <box top='128' left='872' width='273' height='305'/>
+  </image>
+  <image file='Images/chair/2019-04-10-142456.jpg'>
+    <box top='26' left='266' width='513' height='657'/>
+    <box top='92' left='892' width='281' height='317'/>
+  </image>
+</images>
+</dataset>

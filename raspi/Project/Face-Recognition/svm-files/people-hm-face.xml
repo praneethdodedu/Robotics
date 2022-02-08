@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/people-train/13063142-casual-man-standing.jpg'>
+    <box top='33' left='328' width='140' height='196'/>
+  </image>
+  <image file='Images/people-train/13063145-casual-man-standing.jpg'>
+    <box top='43' left='380' width='146' height='180'/>
+  </image>
+  <image file='Images/people-train/17604593-casual-young-man-standing.jpg'>
+    <box top='42' left='255' width='142' height='176'/>
+  </image>
+  <image file='Images/people-train/40253599-full-body-picture-of-a-young-fashion-man-welcoming-you-while-showing-the-thumbs-up-gesture-.jpg'>
+    <box top='122' left='456' width='126' height='168'/>
+  </image>
+  <image file='Images/people-train/45075617.jpg'>
+    <box top='37' left='69' width='51' height='57'/>
+    <box top='58' left='158' width='45' height='44'/>
+    <box top='51' left='238' width='45' height='47'/>
+    <box top='58' left='327' width='46' height='50'/>
+    <box top='48' left='420' width='49' height='45'/>
+    <box top='61' left='503' width='42' height='50'/>
+    <box top='53' left='580' width='59' height='56'/>
+    <box top='63' left='674' width='52' height='42'/>
+  </image>
+  <image file='Images/people-train/46474507-happy-young-african-woman-standing-on-white-background.jpg'>
+    <box top='46' left='364' width='142' height='171'/>
+  </image>
+  <image file='Images/people-train/64558458-full-body-picture-of-a-young-business-man-presenting-and-making-the-ok-thumbs-up-hand-sign-isolated-.jpg'>
+    <box top='15' left='162' width='66' height='68'/>
+  </image>
+  <image file='Images/people-train/65207976-diverse-group-people-standing-concept.jpg'>
+    <box top='131' left='125' width='72' height='80'/>
+    <box top='105' left='335' width='78' height='91'/>
+    <box top='62' left='201' width='88' height='88'/>
+    <box top='110' left='490' width='82' height='94'/>
+    <box top='141' left='608' width='71' height='77'/>
+    <box top='101' left='721' width='65' height='77'/>
+    <box top='87' left='848' width='55' height='76'/>
+    <box top='104' left='929' width='73' height='80'/>
+    <box top='133' left='1010' width='73' height='83'/>
+    <box top='114' left='1084' width='57' height='68'/>
+    <box top='135' left='1152' width='69' height='72'/>
+  </image>
+  <image file='Images/people-train/800px_COLOURBOX2344529.jpg'>
+    <box top='17' left='211' width='92' height='107'/>
+  </image>
+  <image file='Images/people-train/8940_large-group-of-young-people-standing.jpg'>
+    <box top='148' left='124' width='293' height='301'/>
+    <box top='20' left='1116' width='249' height='309'/>
+    <box top='116' left='1780' width='197' height='269'/>
+    <box top='148' left='2212' width='225' height='225'/>
+    <box top='84' left='2568' width='205' height='277'/>
+    <box top='192' left='2864' width='181' height='209'/>
+  </image>
+  <image file='Images/people-train/9.jpg'>
+    <box top='50' left='382' width='83' height='73'/>
+  </image>
+  <image file='Images/people-train/9677667-happy-smiling-young-man-standing-full-length-isolated-on-white-background.jpg'>
+    <box top='96' left='342' width='169' height='173'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_133618.jpg'>
+    <box top='990' left='506' width='313' height='363'/>
+    <box top='564' left='1374' width='499' height='539'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_133815.jpg'>
+    <box top='1668' left='900' width='43' height='47'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_133855.jpg'>
+    <box top='1264' left='1252' width='211' height='229'/>
+    <box top='1244' left='1804' width='251' height='245'/>
+    <box top='1612' left='974' width='81' height='79'/>
+    <box top='1602' left='812' width='75' height='83'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_133901.jpg'>
+    <box top='1178' left='1466' width='113' height='127'/>
+    <box top='1268' left='1264' width='83' height='95'/>
+    <box top='1164' left='1708' width='111' height='153'/>
+    <box top='1172' left='1900' width='117' height='145'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_133936.jpg'>
+    <box top='718' left='900' width='191' height='207'/>
+    <box top='562' left='1410' width='241' height='295'/>
+  </image>
+  <image file='Images/people-train/IMG_20190301_134031.jpg'>
+    <box top='908' left='924' width='115' height='135'/>
+    <box top='854' left='1130' width='135' height='143'/>
+    <box top='864' left='1358' width='119' height='127'/>
+  </image>
+  <image file='Images/people-train/people_standing_png_1004870.jpg'>
+  </image>
+</images>
+</dataset>

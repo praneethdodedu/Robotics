@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Images/coke-bottle/038121.jpg'>
+    <box top='107' left='127' width='44' height='33'/>
+  </image>
+  <image file='Images/coke-bottle/41V1ZPxcx5L.jpg'>
+    <box top='194' left='239' width='88' height='76'/>
+  </image>
+  <image file='Images/coke-bottle/71tqTVl1dgL._SY355_.jpg'>
+    <box top='164' left='179' width='43' height='34'/>
+  </image>
+  <image file='Images/coke-bottle/81y9CSowKbL._SL1500_.jpg'>
+    <box top='641' left='740' width='178' height='140'/>
+  </image>
+  <image file='Images/coke-bottle/Analyst-warns-of-CCE-s-challenged-start-with-smaller-1.75-L-Coke-bottle_wrbm_large.png'>
+    <box top='137' left='116' width='55' height='48'/>
+    <box top='134' left='254' width='49' height='49'/>
+  </image>
+  <image file='Images/coke-bottle/chronology10.jpg'>
+    <box top='438' left='611' width='108' height='102'/>
+  </image>
+  <image file='Images/coke-bottle/Coca-Cola-Zero-Sugar-Glass-.jpg'>
+    <box top='338' left='398' width='77' height='61'/>
+  </image>
+  <image file='Images/coke-bottle/Coke_2L_final__18488.1525935011.jpg'>
+    <box top='539' left='432' width='181' height='160'/>
+  </image>
+  <image file='Images/coke-bottle/coke_zero_2L_final__29204.1525937732.jpg'>
+    <box top='533' left='436' width='175' height='161'/>
+  </image>
+  <image file='Images/coke-bottle/download (1).jpeg'>
+    <box top='92' left='105' width='43' height='33'/>
+  </image>
+  <image file='Images/coke-bottle/download.jpeg'>
+    <box top='84' left='108' width='48' height='41'/>
+  </image>
+  <image file='Images/coke-bottle/98355046_023247472-1.jpg'>
+    <box top='136' left='493' width='92' height='60'/>
+    <box top='144' left='276' width='67' height='52'/>
+    <box top='156' left='189' width='61' height='50'/>
+  </image>
+  <image file='Images/coke-bottle/fusion360cola-3500-3500.jpg'>
+    <box top='1410' left='1777' width='379' height='337'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_852cd36c-203c-4f0d-9494-67b2526a2fa7.jpeg'>
+    <box top='191' left='240' width='79' height='75'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_9de8872b-bd33-4793-b6eb-f58de3d3e90a.jpeg'>
+    <box top='204' left='241' width='54' height='55'/>
+  </image>
+  <image file='Images/coke-bottle/GUEST_f3dfc07b-ecf3-4db4-bb56-a1be8b754215.jpeg'>
+    <box top='181' left='243' width='75' height='88'/>
+  </image>
+  <image file='Images/coke-bottle/share-1-my-friends-my-friends-0.1.0-2.png'>
+  </image>
+</images>
+</dataset>
